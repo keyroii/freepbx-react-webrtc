@@ -35,7 +35,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^3.0.0",
-    "eslint": "^5.16.0",
+    "eslint": "^9.39.1",
     "eslint-plugin-react": "^7.13.0",
     "html-webpack-plugin": "^3.2.0",
     "style-loader": "^0.23.1",
@@ -50,11 +50,11 @@
   "dependencies": {
     "debug": "^4.1.1",
     "detect-browser": "^4.5.1",
-    "np": "^5.1.1",
+    "np": "^10.2.0",
     "npm": "^6.12.0",
     "prop-types": "^15.7.2",
     "react-bootstrap": "^1.0.0-beta.9",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "sip.js": "^0.14.4",
     "webrtc-adapter": "^7.2.4"
   }
